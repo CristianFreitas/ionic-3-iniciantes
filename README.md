@@ -27,3 +27,4 @@ Substitute ios for android if not on a Mac.
 "# ionic-3-iniciante" 
 "# ionic-3-iniciante" 
 "# ionic-3-iniciante" 
+"# ionic-3-iniciante" 
